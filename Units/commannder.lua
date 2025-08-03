@@ -73,7 +73,9 @@ buildoptions =
 	{
 	[[edfarmoredplanttech1]],
 	[[edfgeneratortech1]],
-	[[edfmassstorage]]
+	[[edfmassstorage]],
+	[[hunter]]
+
 	},
 
 --Hitbox
